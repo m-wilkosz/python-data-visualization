@@ -12,7 +12,7 @@ Created with:
 - HTML 5
 
 ### Setup
-First, you should have Python, Matplotlib and Pyplot installed if you don't already have them:
+First, you have to install Python, Matplotlib and Pyplot if you don't already have them:
 ```
 sudo apt-get install python3.8
 sudo apt install python3-pip
@@ -21,4 +21,4 @@ pip install plotly==5.13.0
 ```
 Then you can run script by this command:
 ```
-python3 script-file-name
+python3 script_filename.py
